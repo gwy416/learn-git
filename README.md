@@ -1,1 +1,1 @@
-# learn git command
+## git init
